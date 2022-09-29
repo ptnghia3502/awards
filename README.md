@@ -1,8 +1,8 @@
-# AWARDS & ACHIEVEMENTS
+# 🏆 AWARDS & ACHIEVEMENTS 🏆
 
-🏆 All of my awards, achievements and certificates in this repository 🏆
+🎉 All of my awards, achievements and certificates in this repository 🥇 🥈 🥉
 
-## Table of Contents
+## 📜 Table of Contents
 #| Name | Description 
 -| ---- | ----------- 
 1| [FPT University Certificates](./1-fpt-university) | All of my achievements in FPT University HCMC
